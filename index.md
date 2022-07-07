@@ -1,22 +1,22 @@
-My name is Lukas Woike. Since October 2020, I am a postdoc in the topology group of the University of Copenhagen, where my mentor is Nathalie Wahl.
+<h4> My name is Lukas Woike. Since October 2020, I am a postdoc in the topology group of the University of Copenhagen, where my mentor is Nathalie Wahl.
 Since January 2022, I am a Marie Sklodowska-Curie Fellow (Horizon 2020 Individual Fellowship).
-Before that, I was a PhD student at the University of Hamburg supervised by Christoph Schweigert.
+Before that, I was a PhD student at the University of Hamburg supervised by Christoph Schweigert.</h4>
 
 
 
 
       
-
+<h4>
 My research interests are algebraic and quantum topology, representation theory, in particular topological field theory.
-In more detail, my current projects are concerned with applications of homotopy theory (in particular cyclic and modular operads) to non-semisimple representation categories leading to modular functors with values in chain complexes. 
+In more detail, my current projects are concerned with applications of homotopy theory (in particular cyclic and modular operads) to non-semisimple representation categories leading to modular functors with values in chain complexes. </h4>
 
              
              
  <h2> Publications</h2>
-
+</h4>
 <ol reversed="">
 
-<li>The Trace Field Theory of a Finite Tensor Category. With Christoph Schweigert. Accepted for publication in <em>Alg. Rep. Theory.</em> <a href="https://arxiv.org/abs/2103.15772">arxiv.org/abs/2103.15772</a></li>
+<li></h4>The Trace Field Theory of a Finite Tensor Category. With Christoph Schweigert. Accepted for publication in <em>Alg. Rep. Theory.</em> <a href="https://arxiv.org/abs/2103.15772">arxiv.org/abs/2103.15772</a>  </h4></li>
 
 <li>The Diffeomorphism Group of the Solid Closed Torus and Hochschild Homology. With Lukas M&uuml;ller. Accepted for publication in <em>Proc. Amer. Math. Soc.</em> <a href="https://arxiv.org/abs/2201.03920">arXiv/abs/2201.03920</a></li>
 
@@ -49,6 +49,7 @@ In more detail, my current projects are concerned with applications of homotopy 
 <li>Orbifold Construction for Topological Field Theories. With Christoph Schweigert. <em>J. Pure Appl. Algebra</em> 223:1167-1192, 2019. <a href="https://arxiv.org/abs/1705.05171">arxiv.org/abs/1705.05171</a></li>
 
 </ol>
+</h4>
 
 <h2>Preprints</h2>
 
