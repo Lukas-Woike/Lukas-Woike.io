@@ -1,14 +1,9 @@
-<h5> My name is Lukas Woike. Since October 2020, I am a postdoc in the topology group of the University of Copenhagen, where my mentor is Nathalie Wahl.
+My name is Lukas Woike. Since October 2020, I am a postdoc in the topology group of the University of Copenhagen, where my mentor is Nathalie Wahl.
 Since January 2022, I am a Marie Sklodowska-Curie Fellow (Horizon 2020 Individual Fellowship).
-Before that, I was a PhD student at the University of Hamburg supervised by Christoph Schweigert.</h5>
-
-
-
-
+Before that, I was a PhD student at the University of Hamburg supervised by Christoph Schweigert.
       
-<h5>
 My research interests are algebraic and quantum topology, representation theory, in particular topological field theory.
-In more detail, my current projects are concerned with applications of homotopy theory (in particular cyclic and modular operads) to non-semisimple representation categories leading to modular functors with values in chain complexes. </h5>
+In more detail, my current projects are concerned with applications of homotopy theory (in particular cyclic and modular operads) to non-semisimple representation categories leading to modular functors with values in chain complexes. 
 
              
              
