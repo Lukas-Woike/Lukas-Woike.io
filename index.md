@@ -59,3 +59,5 @@ In more detail, my current projects are concerned with applications of homotopy 
 
 </ol>
    
+
+<meta name="google-site-verification" content="gMW5xCo1pNxahT8ajAVeA74m3fg6KkGzmeSJ-dhQpMM" />
