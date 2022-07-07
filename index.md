@@ -5,7 +5,7 @@ Before that, I was a PhD student at the University of Hamburg supervised by Chri
 My research interests are algebraic and quantum topology, representation theory, in particular topological field theory.
 In more detail, my current projects are concerned with applications of homotopy theory (in particular cyclic and modular operads) to non-semisimple representation categories leading to modular functors with values in chain complexes. 
 
-             
+           <img src="https://user-images.githubusercontent.com/73177473/177811636-ba29b283-50d3-4e6a-bfdd-88fec53a6b57.jpg" width="150">  
              
  <h2> Publications</h2>
 
