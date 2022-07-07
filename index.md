@@ -3,7 +3,7 @@ Since January 2022, I am a Marie Sklodowska-Curie Fellow (Horizon 2020 Individua
 Before that, I was a PhD student at the University of Hamburg supervised by Christoph Schweigert.
 
 
-<img src="https://user-images.githubusercontent.com/73177473/177811636-ba29b283-50d3-4e6a-bfdd-88fec53a6b57.jpg" width="150">
+
 
       
 
