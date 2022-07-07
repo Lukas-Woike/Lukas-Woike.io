@@ -1,10 +1,9 @@
 My name is Lukas Woike. Since October 2020, I am a postdoc in the topology group of the University of Copenhagen, where my mentor is Nathalie Wahl.
 Since January 2022, I am a Marie Sklodowska-Curie Fellow (Horizon 2020 Individual Fellowship).
 Before that, I was a PhD student at the University of Hamburg supervised by Christoph Schweigert.
-      
-      
-![LW_Bild](https://user-images.githubusercontent.com/73177473/177811636-ba29b283-50d3-4e6a-bfdd-88fec53a6b57.jpg)
 
+
+<img src="https://user-images.githubusercontent.com/73177473/177811636-ba29b283-50d3-4e6a-bfdd-88fec53a6b57.jpg" width="200">
 
       
 
@@ -62,5 +61,4 @@ In more detail, my current projects are concerned with applications of homotopy 
 <li>The differential graded Verlinde Formula and the Deligne Conjecture. With Christoph Schweigert. <a href="https://arxiv.org/abs/2105.01596">arxiv.org/abs/2105.01596</a></li>
 
 </ol>
-    </body>
-</html>
+   
