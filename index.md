@@ -12,7 +12,7 @@ In more detail, my current projects are concerned with applications of homotopy 
 
              
              
- <h2 style="color: #2e6c80;"><span style="color: #333399;">Publications</span></h2>
+ <h2> Publications</span></h2>
 
 <ol reversed="">
 
@@ -50,7 +50,7 @@ In more detail, my current projects are concerned with applications of homotopy 
 
 </ol>
 
-<h2 style="color: #2e6c80;"><span style="color: #333399;">Preprints</span></h2>
+<h2>Preprints</span></h2>
 
 <ol reversed="">
 
