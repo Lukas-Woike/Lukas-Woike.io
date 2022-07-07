@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+My name is Lukas Woike. Since October 2020, I am a postdoc in the topology group of the University of Copenhagen, where my mentor is Nathalie Wahl.
+Since January 2022, I am a Marie Sklodowska-Curie Fellow (Horizon 2020 Individual Fellowship).
+Before that, I was a PhD student at the University of Hamburg supervised by Christoph Schweigert.
+      
+      
+![LW_Bild](https://user-images.githubusercontent.com/73177473/177811636-ba29b283-50d3-4e6a-bfdd-88fec53a6b57.jpg)
 
-You can use the [editor on GitHub](https://github.com/Lukas-Woike/Lukas-Woike.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      
 
-### Markdown
+My research interests are algebraic and quantum topology, representation theory, in particular topological field theory.
+In more detail, my current projects are concerned with applications of homotopy theory (in particular cyclic and modular operads) to non-semisimple representation categories leading to modular functors with values in chain complexes. </font>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+             
+             
+ <h2 style="color: #2e6c80;"><span style="color: #333399;">Publications</span></h2>
 
-```markdown
-Syntax highlighted code block
+<ol reversed="">
 
-# Header 1
-## Header 2
-### Header 3
+<li>The Trace Field Theory of a Finite Tensor Category. With Christoph Schweigert. Accepted for publication in <em>Alg. Rep. Theory.</em> <a href="https://arxiv.org/abs/2103.15772">arxiv.org/abs/2103.15772</a></li>
 
-- Bulleted
-- List
+<li>The Diffeomorphism Group of the Solid Closed Torus and Hochschild Homology. With Lukas M&uuml;ller. Accepted for publication in <em>Proc. Amer. Math. Soc.</em> <a href="https://arxiv.org/abs/2201.03920">arXiv/abs/2201.03920</a></li>
 
-1. Numbered
-2. List
+<li>Cyclic framed little disks algebras, Grothendieck-Verdier duality and handlebody group representations. With Lukas M&uuml;ller. Accepted for publication in <em>Quart. J. Math.</em> <a href="https://arxiv.org/abs/2010.10229">arxiv.org/abs/2010.10229</a></li>
 
-**Bold** and _Italic_ and `Code` text
+<li>Homotopy Coherent Mapping Class Group Actions and Excision for Hochschild Complexes of Modular Categories. With Christoph Schweigert. <em>Adv. Math.</em> 386, 107814, 2021. <a href="https://arxiv.org/abs/2004.14343">arxiv.org/abs/2004.14343</a></li>
 
-[Link](url) and ![Image](src)
-```
+<li>The Hochschild Complex of a Finite Tensor Category. With Christoph Schweigert. <em>Algebr. Geom. Top.</em> 21(7):3689-3734, 2021. <a href="https://arxiv.org/abs/1910.00559">arxiv.org/abs/1910.00559</a></li>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<li>Categorification of algebraic quantum field theories. With Marco Benini, Marco Perin and Alexander Schenkel. <em>Lett. Math. Phys.</em> 111, 35, 2021. <a href="https://arxiv.org/abs/2003.13713">arxiv.org/abs/2003.13713</a></li>
 
-### Jekyll Themes
+<li>Dimensional Reduction, Extended Topological Field Theories and Orbifoldization. With Lukas M&uuml;ller. <em>Bull. London Math. Soc.</em> 53(2):392-403, 2020. <a href="https://arxiv.org/abs/2004.04689">arxiv.org/abs/2004.04689</a></li>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lukas-Woike/Lukas-Woike.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<li>The Little Bundles Operad. With Lukas M&uuml;ller. <em>Algebr. Geom. Top.</em> 20:2029-2070, 2020. <a href="https://arxiv.org/abs/1901.04850">arxiv.org/abs/1901.04850</a></li>
 
-### Support or Contact
+<li>Equivariant Higher Hochschild Homology and Topological Field Theories. With Lukas M&uuml;ller. <em>Homology Homotopy Appl.</em> 22(1):27-54, 2020. <a href="https://arxiv.org/abs/1809.06695">arxiv.org/abs/1809.06695</a></li>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<li>Homotopy theory of algebraic quantum field theories. With Marco Benini and Alexander Schenkel. <em>Lett. Math. Phys.</em> 109:1487-1532, 2019. <a href="https://arxiv.org/abs/1805.08795">arxiv.org/abs/1805.08795</a></li>
+
+<li>Parallel Transport of Higher Flat Gerbes as an Extended Homotopy Quantum Field Theory. With Lukas M&uuml;ller. <em>J. Homotopy Relat. Str.</em> <a href="https://arxiv.org/abs/1802.10455">arxiv.org/abs/1802.10455</a></li>
+
+<li>Extended Homotopy Quantum Field Theories and their Orbifoldization. With Christoph Schweigert. <em>J. Pure Appl. Algebra</em> <a href="https://arxiv.org/abs/1802.08512">arxiv.org/abs/1802.08512</a></li>
+
+<li>Involutive categories, colored &lowast;-operads and quantum field theory. With Marco Benini and Alexander Schenkel. <em>Theory Appl. Categ.</em> 34(2):13-57, 2019. <a href="https://arxiv.org/abs/1802.09555">arxiv.org/abs/1802.09555</a></li>
+
+<li>A Parallel Section Functor for 2-Vector Bundles. With Christoph Schweigert. <em>Theory Appl. Categ.</em> 33(23):644-690, 2018. <a href="https://arxiv.org/abs/1711.08639">arxiv.org/abs/1711.08639</a></li>
+
+<li>Operads for algebraic quantum field theory. With Marco Benini and Alexander Schenkel. <em>Commun. Contemp. Math.</em>, 2020. <a href="https://arxiv.org/abs/1709.08657">arxiv.org/abs/1709.08657</a></li>
+
+<li>Orbifold Construction for Topological Field Theories. With Christoph Schweigert. <em>J. Pure Appl. Algebra</em> 223:1167-1192, 2019. <a href="https://arxiv.org/abs/1705.05171">arxiv.org/abs/1705.05171</a></li>
+
+</ol>
+
+<h2 style="color: #2e6c80;"><span style="color: #333399;">Preprints</span></h2>
+
+<ol reversed="">
+
+<li>Homotopy Invariants of Braided Commutative Algebras and the Deligne Conjecture for Finite Tensor Categories. With Christoph Schweigert. <a href="https://arxiv.org/abs/2204.09018">arXiv.org/abs/2204.09018</a></li>
+
+<li>Classification of Consistent Systems of Handlebody Group Representations. With Lukas M&uuml;ller. <a href="https://arxiv.org/abs/2201.07542">arXiv.org/abs/2201.07542</a></li>
+
+<li>The differential graded Verlinde Formula and the Deligne Conjecture. With Christoph Schweigert. <a href="https://arxiv.org/abs/2105.01596">arxiv.org/abs/2105.01596</a></li>
+
+</ol>
+    </body>
+</html>
